@@ -1,2 +1,2 @@
-# NadavKonstantineProfile
-Short self-description README for networking (Pseudo Cover-Letter)
+# Nadav Konstantine Virtual Profile
+My name is Nadav Konstantine, I am a newly graduated Computer Science major from Worcester Polytechnic Institute with a strong foundation in financial technology, software engineering, database systems, and artificial intelligence. My current interests are in Entry-Level Software engineering, Data analysis, Application support engineering, and similar positions. My resume specifically reflects direct experience in elaborate technical projects, where my natural leadership skills, eagerness to learn, and passion for improving as a new hire are the driving factors in my job search. The coding languages I find myself most proficient in are SQL Java, and Python, and my resume reads more specifically to my skillset. Thank you very much for the opportunity to network with you and I look forward to further communication.
