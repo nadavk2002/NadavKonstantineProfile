@@ -9,6 +9,3 @@ My name is Nadav Konstantine, I am a newly graduated Computer Science major from
 <p align=”center”>
 ![Skills](https://github.com/user-attachments/assets/6c75d985-beed-45d7-9eb9-28246995ed3c)
 </p>
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=nadavk2002)](https://github.com/nadavk2002)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadavk2002&layout=compact)](https://github.com/nadavk2002)
