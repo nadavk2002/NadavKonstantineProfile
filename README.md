@@ -10,5 +10,5 @@ My name is Nadav Konstantine, I am a newly graduated Computer Science major from
 </a>
 
 <p align="center">
-  ![Skills](https://github.com/user-attachments/assets/6c75d985-beed-45d7-9eb9-28246995ed3c)
+  <img src="https://github.com/user-attachments/assets/6c75d985-beed-45d7-9eb9-28246995ed3c" alt="my skills">
 </p>
