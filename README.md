@@ -7,7 +7,7 @@ My name is Nadav Konstantine, I am a newly graduated Computer Science major from
 # Connect with me on Linkedin:
 <p align="center">
   <a href="https://www.linkedin.com/in/nadavkonstantine/">
-    <img src="https://github.com/user-attachments/assets/9e24c573-d96b-4bce-8ba0-d1a0c9900672" alt="My LinkedIn" width="1400" height="750">
+    <img src="https://github.com/user-attachments/assets/a1990af9-9419-4f93-8c60-611c570d1ebe" alt="My LinkedIn">
   </a>
 </p>
 
